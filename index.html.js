@@ -25,7 +25,7 @@ var ask$do$you$want$tmp$value$$$$$$$_$_$_$_$_$_$_$ = "";
     function addtodoc(place, type) {
         return place.appendChild(document.createElement(type))
     }
-    const socket = new WebSocket('ws://lucastictactoeserver-production.up.railway.app/');
+    const socket = new WebSocket('wss://tttserver.zlcython.top/');
     const winlehaha = function (thewiningxorohahahomgshduhcnsdhjgnfbvndfhjnvmhbdsfghjvnbendfhgvbdnf) {
         // dgid("maingamediv").hidden = true
         dgid("win" + thewiningxorohahahomgshduhcnsdhjgnfbvndfhjnvmhbdsfghjvnbendfhgvbdnf).hidden = false;
