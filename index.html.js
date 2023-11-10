@@ -25,7 +25,7 @@ var ask$do$you$want$tmp$value$$$$$$$_$_$_$_$_$_$_$ = "";
     function addtodoc(place, type) {
         return place.appendChild(document.createElement(type))
     }
-    const socket = new WebSocket('wss://tttserver.zlcython.top/');
+    const socket = new WebSocket('wss://10.2.48.72:5418/');
     const winlehaha = function (thewiningxorohahahomgshduhcnsdhjgnfbvndfhjnvmhbdsfghjvnbendfhgvbdnf) {
         // dgid("maingamediv").hidden = true
         dgid("win" + thewiningxorohahahomgshduhcnsdhjgnfbvndfhjnvmhbdsfghjvnbendfhgvbdnf).hidden = false;
